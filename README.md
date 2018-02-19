@@ -24,19 +24,19 @@ To take the advantage of the  ` Github `  to learn something. Like, Printing pr
 <!-- keep Length-width ratio -->
 </br>
 
-</br>
+> [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/Ryucis/Cissto)
+[![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/last-update/notepad4e.svg)](https://github.com/Ryucis/Cissto)
+<!-- icon -->
+
 </br>
 
 # Future development: 
 
 A simple `microextrusion-based` 3D-printing instruction that can be recognized based on `32-bit CPU`.
+</br>
+:exclamation: *~~Gellan gum//Collagen TypeI//HUVEC NHDF~~*
 
 </br>
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/Ryucis/Cissto)
-[![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/last-update/notepad4e.svg)](https://github.com/Ryucis/Cissto)
-<!-- icon -->
-
 </br>
 </br>
 </br>
