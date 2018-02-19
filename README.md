@@ -19,8 +19,8 @@ To take the advantage of the  ` Github `  to learn something. Like, Printing pr
 ***Our research is kindly sponsored by:***
 </br>
 
-<img width="330" height="53" img align="left" src="https://github.com/Ryucis/Cissto/blob/master/images/Toppan_logo.png" />
-<img width="180" height="63" img align="center" src="https://github.com/Ryucis/Cissto/blob/master/images/Ricoh-logo.png" />
+[<img width="330" height="53" img align="left" src="https://github.com/Ryucis/Cissto/blob/master/images/Toppan_logo.png" />](http://www.toppan.co.jp/english/index.html)
+[<img width="180" height="63" img align="center" src="https://github.com/Ryucis/Cissto/blob/master/images/Ricoh-logo.png" />](https://www.ricoh.com)
 <!-- keep Length-width ratio -->
 </br>
 
