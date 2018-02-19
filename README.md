@@ -1,4 +1,3 @@
-
 ## 1. Who am I?
 
 [<img width="350" height="62" img align="right" src="https://github.com/Ryucis/Cissto/blob/master/images/Osaka%20Univ.%20Logo.tiff" />](http://www.osaka-u.ac.jp/en)
@@ -7,8 +6,6 @@
 A graduate student in Osaka Universtiy. Majoring in Biomaterials and 3D Bioprinting. A new guy in this field and hope to learn more.
 </br>
 For more details, please [check](http://www.chem.eng.osaka-u.ac.jp/appl/).
-
-</br>
 
 ## 2. Why create this repository?
 
