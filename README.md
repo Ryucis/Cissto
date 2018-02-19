@@ -1,7 +1,5 @@
 
-## F&Q
-
-### 1. Who am I?
+## 1. Who am I?
 
 [<img width="300" height="53" img align="right" src="https://github.com/Ryucis/Cissto/blob/master/images/Osaka%20Univ.%20Logo.tiff" />](http://www.osaka-u.ac.jp/en)
 
@@ -9,7 +7,7 @@ A graduate student in [Osaka Universtiy](http://www.osaka-u.ac.jp/en). Majoring 
 
 </br>
 
-### 2.Why create this repository?
+## 2.Why create this repository?
 
 To take the advantage of the Github to communicate with you. Like, Printing program, Research ideas and others. What's more, to record How can we optimize the printing process?
   
