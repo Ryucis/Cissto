@@ -1,4 +1,3 @@
-
 ## 1. Who am I?
 
 [<img width="350" height="62" img align="right" src="https://github.com/Ryucis/Cissto/blob/master/images/Osaka%20Univ.%20Logo.tiff" />](http://www.osaka-u.ac.jp/en)
@@ -8,12 +7,12 @@ A graduate student in Osaka Universtiy. Majoring in Biomaterials and 3D Bioprint
 </br>
 For more details, please [check](http://www.chem.eng.osaka-u.ac.jp/appl/).
 
-</br>
 
 ## 2. Why create this repository?
 
 To take the advantage of the  ` Github `  to learn something. Like, Printing program, Research ideas and others. What's more,  to record How can we optimize the printing process.
   
+</br>
 </br>
 </br>
 
