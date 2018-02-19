@@ -12,7 +12,7 @@ A graduate student in [Osaka Universtiy](http://www.osaka-u.ac.jp/en). Majoring 
 
 ### 2.Why create this repository?
 
-To take the advantage of the Github to record something. Like, Printing program, Research ideas and others.
+To take the advantage of the Github to communicate with you. Like, Printing program, Research ideas and others. What's more, to record How can we optimize the printing process?
   
 </br>
 </br>
