@@ -17,7 +17,7 @@ To take the advantage of the  ` Github `  to learn something. Like, Printing pr
 </br>
 
 
-***Our research is kindly sponsored by:***
+## ***Our research is kindly sponsored by:***
 </br>
 
 <img width="330" height="53" img align="left" src="https://github.com/Ryucis/Cissto/blob/master/images/Toppan_logo.png" />
@@ -27,7 +27,9 @@ To take the advantage of the  ` Github `  to learn something. Like, Printing pr
 
 </br>
 </br>
-</br>   
+</br>  
+
+*** 
 
 >Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
   
