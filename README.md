@@ -20,12 +20,12 @@ To take the advantage of the Github to communicate with you. Like, Printing prog
 Our research is kindly sponsored by:
 </br>
 
-<img width="1000" height="160" img align="left" src="https://github.com/Ryucis/Cissto/blob/master/images/Toppan_logo.png" />
+<img width="500" height="80" img align="left" src="https://github.com/Ryucis/Cissto/blob/master/images/Toppan_logo.png" />
 
 
 
-
-    
+</br>
+</br>    
 >Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
   
   
