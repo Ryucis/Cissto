@@ -35,13 +35,14 @@ A simple `microextrusion-based` 3D-printing instruction that can be recognized b
 
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/Ryucis/Cissto)
 [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/last-update/notepad4e.svg)](https://github.com/Ryucis/Cissto)
+<!-- icon -->
 
 </br>
 </br>
 </br>
 </br>
 
-[Top](#readme)
+[Top](#readme) <!-- back to the top -->
 
 *** 
 
