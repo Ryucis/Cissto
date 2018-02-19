@@ -16,8 +16,7 @@ To take the advantage of the  ` Github `  to learn something. Like, Printing pr
 </br>
 </br>
 
-
-## ***Our research is kindly sponsored by:***
+***Our research is kindly sponsored by:***
 </br>
 
 <img width="330" height="53" img align="left" src="https://github.com/Ryucis/Cissto/blob/master/images/Toppan_logo.png" />
