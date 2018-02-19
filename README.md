@@ -12,7 +12,7 @@ For more details, please [check](http://www.chem.eng.osaka-u.ac.jp/appl/).
 
 ## 2. Why create this repository?
 
-To take the advantage of the  ` Github `  to communicate with you. Like, Printing program, Research ideas and others. What's more,  to record How can we optimize the printing process.
+To take the advantage of the  ` Github `  to learn something. Like, Printing program, Research ideas and others. What's more,  to record How can we optimize the printing process.
   
 </br>
 </br>
