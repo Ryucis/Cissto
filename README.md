@@ -3,7 +3,7 @@
 
 ### 1. Who am I?
 
-[<img width="400" height="70" img align="right" src="https://github.com/Ryucis/Cissto/blob/master/images/Osaka%20Univ.%20Logo.tiff" />](http://www.osaka-u.ac.jp/en)
+[<img width="300" height="53" img align="right" src="https://github.com/Ryucis/Cissto/blob/master/images/Osaka%20Univ.%20Logo.tiff" />](http://www.osaka-u.ac.jp/en)
 
 A graduate student in [Osaka Universtiy](http://www.osaka-u.ac.jp/en). Majoring in Biomaterials and 3D Bioprinting. A new guy in this field and hope to learn more.
 
