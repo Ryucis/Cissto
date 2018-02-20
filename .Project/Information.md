@@ -6,7 +6,6 @@
 - Collagen *Type1*
 - Cell > [`Human Dermal Fibroblasts`](https://en.wikipedia.org/wiki/Dermal_fibroblast "HDFs") [`Human Umbilical Vein Endothelial Cells`](https://en.wikipedia.org/wiki/Human_umbilical_vein_endothelial_cell "HUVECs")
 - CaCl₂ in *Medium*
-
 # Methods
 <!-- 待编辑横向流程图  -->
 >1
@@ -14,9 +13,6 @@
 >>>3
 >>>>4
 >>>>>5
-
-
-
 
 ## Logs
 ### 2018/02/06
