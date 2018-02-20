@@ -32,8 +32,6 @@ To take the advantage of the  ` Github `  to learn something. Like, Printing pr
 
 A simple `microextrusion-based` 3D-printing instruction that can be recognized based on `32-bit CPU`.
 </br>
-:exclamation: *~~Gellan gum//Collagen Type1//HUVEC NHDF~~*
-
 </br>
 </br>
 </br>
