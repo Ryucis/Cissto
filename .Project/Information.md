@@ -18,7 +18,7 @@
 
 
 
-## Update log
+## Logs
 ### 2018/02/06
 
 ```diff
