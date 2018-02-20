@@ -1,4 +1,4 @@
- **:exclamation: Only for research**
+ **:exclamation: For research use only**
 </br>
 
 # Materials
