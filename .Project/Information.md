@@ -11,6 +11,13 @@
 <!-- 待编辑横向流程图  -->
 ## Update log
 ### 2018/02/06
+
+```diff
++ 2 Weeks incubation
+- Gel dissolve
+``` 
+<!-- highlight -->
+
 - Gellan gum in *Ultrapure water* 
 > **0.5wt%**  
 - CaCl₂ in *Medium* 
